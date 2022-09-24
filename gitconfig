@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vanholsbeeck.sn@gmail.com
+	name = Sarah Vanholsbeeck
